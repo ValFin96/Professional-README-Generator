@@ -2,7 +2,7 @@
 
 ## Description
 
-This application consists of 12 questions that a user needs to fill out in order to generate a README file. The answers will be prefilled in the markdown template. A user will be able to ovewrite his/her answers by starting the application again.
+This application consists of 12 questions that a user needs to fill out in order to generate a README file. The answers will be prefilled in the markdown template. A user will be able to ovewrite his/her answers by starting the application again. Walkthrough-video: https://drive.google.com/file/d/1XsBnKJZoPEz8EvgWFcsX-ToGX8pNpjOA/view
 
 ## Table of Contents
 
