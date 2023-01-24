@@ -68,11 +68,15 @@ function generateMarkdown(data) {
  ## Tests
  ${data.test}
  ## Questions
- ${data.userName}
- ${data.github}
- ${data.email}
- ${data.repo}
- ${data.url}
+ Full Name: ${data.userName}
+
+ Github username: ${data.github}
+
+ Email address: ${data.email}
+
+ Repository URL: ${data.repo}
+ 
+ Live URL: ${data.url}
  `;
 }
 
